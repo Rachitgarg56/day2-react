@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    padding: 4rem 30rem;
+}
+
+p {
+    line-height: 2rem;
+    font-size: large;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
